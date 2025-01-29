@@ -53,7 +53,7 @@ A Python based IP address analysis tool that provides detailed information about
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rexzea/ip-checker.git
+   git clone https://github.com/rexzea/Net-Phantom.git
    cd ip-checker
    ```
 
@@ -246,9 +246,27 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Add command-line interface
 - Implement caching system
 
-## 📞 Contact
 
-If you have any questions or suggestions, please open an issue in the GitHub repository.
+## 📞 Support & Contact
+Need assistance? Reach out through:
+- 📧 Email: [futzfary@gmail.com](mailto:futzfary@gmail.com)
+- 📱 Phone: +62 898-8610-455
+- 💬 GitHub Issues: Open a new issue in the repository
+
+<div align="center">
+
+![Logo Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+
+```
+🌟 Crafted with ❤️ by Rexzea 🌟
+```
+</div>
 
 ---
-Made with ❤️ by Rexzea
+
+<div align="center">
+
+### Show Your Support
+⭐ Star this repository if you find it helpful! ⭐
+
+[Report Bug](https://github.com/rexzea/Net-Phantom/issues) · [Request Feature](https://github.com/rexzea/Net-Phantom/issues)
