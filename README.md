@@ -115,7 +115,7 @@ Tipe: Non-Mobile
 Proxy/VPN: Tidak
 Hosting/Datacenter: Ya
 
-Lokasi:
+Location:
 Continent: North America (NA)
 Country: United States (US)
 Region: Virginia (VA)
@@ -124,14 +124,14 @@ District:
 Zip Code: 20149
 Coordinate: 39.03, -77.5
 
-Informasi Network:
+Network Network:
 ISP: Google LLC
 Organization: Google Public DNS
 AS Number: AS15169 Google LLC
 AS Name: GOOGLE
 Reverse DNS: dns.google
 
-Informasi DNS:
+DNS Information:
 Record DNS:
 - A: 8.8.4.4, 8.8.8.8
 - AAAA: 2001:4860:4860::8888, 2001:4860:4860::8844
