@@ -1,0 +1,85 @@
+{
+    "timestamp": "20250129_134604",
+    "ip": "8.8.8.8",
+    "basic_info": {
+        "continent": "North America",
+        "country": "United States",
+        "region": "Virginia",
+        "city": "Ashburn",
+        "coordinates": [
+            39.03,
+            -77.5
+        ]
+    },
+    "network_info": {
+        "isp": "Google LLC",
+        "org": "Google Public DNS",
+        "as_number": "AS15169 Google LLC",
+        "as_name": "GOOGLE"
+    },
+    "dns_info": {
+        "records": {
+            "A": [
+                "8.8.4.4",
+                "8.8.8.8"
+            ],
+            "AAAA": [
+                "2001:4860:4860::8888",
+                "2001:4860:4860::8844"
+            ],
+            "NS": [
+                "ns4.zdns.google.",
+                "ns3.zdns.google.",
+                "ns2.zdns.google.",
+                "ns1.zdns.google."
+            ],
+            "TXT": [
+                "\"v=spf1 -all\"",
+                "\"https://xkcd.com/1361/\""
+            ],
+            "SOA": [
+                "ns1.zdns.google. cloud-dns-hostmaster.google.com. 1 21600 3600 259200 300"
+            ]
+        },
+        "nameservers": [
+            "ns3.zdns.google.",
+            "ns2.zdns.google.",
+            "ns1.zdns.google.",
+            "ns4.zdns.google."
+        ],
+        "errors": [
+            "Error getting MX record: The DNS response does not contain an answer to the question: dns.google. IN MX",
+            "Error getting CNAME record: The DNS response does not contain an answer to the question: dns.google. IN CNAME"
+        ]
+    },
+    "ssl_info": {
+        "valid": true,
+        "issuer": "[(b'C', b'US'), (b'O', b'Google Trust Services'), (b'CN', b'WR2')]",
+        "subject": "[(b'CN', b'dns.google')]",
+        "valid_from": "b'20250106083801Z'",
+        "valid_until": "b'20250331083800Z'",
+        "version": "2",
+        "serial_number": "291446159151844296857426066005656720892",
+        "errors": []
+    },
+    "whois_info": {
+        "registrar": "MarkMonitor Inc.",
+        "creation_date": "2018-04-16 22:57:01",
+        "expiration_date": "2025-04-16 22:57:01",
+        "updated_date": "2024-03-20 10:02:54",
+        "status": [
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+        ],
+        "name_servers": [
+            "ns1.zdns.google",
+            "ns2.zdns.google",
+            "ns3.zdns.google",
+            "ns4.zdns.google"
+        ],
+        "errors": []
+    },
+    "port_scan": [],
+    "response_time": 0.37349605560302734
+}
