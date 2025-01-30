@@ -14,7 +14,7 @@ import os
 from dotenv import load_dotenv  
 
 # make folder
-data_dir = Path('data')
+data_dir = Path('data')                  
 data_dir.mkdir(exist_ok=True)
 
 # make subfolder
