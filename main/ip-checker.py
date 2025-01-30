@@ -35,7 +35,7 @@ class IPChecker:
         except requests.exceptions.RequestException as e:
             print(f"\nError network: {str(e)}")
             return None
-        except json.JSONDecodeError:
+        except json.JSONDecodeError:         
             print("\nError: Failed to process the response from the server")
             return None
         except Exception as e:
@@ -78,7 +78,7 @@ def main():
             
             print("\nRetrieving information...")
             ip_info = checker.get_ip_info(ip)
-            
+                     
             if ip_info:
                 print("\n=== IP Address Information ===")
                 for key, value in ip_info.items():
