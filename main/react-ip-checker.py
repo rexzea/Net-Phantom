@@ -2,7 +2,7 @@ import requests
 import re
 import json
 from typing import Optional, Dict, Union, List, Tuple
-from datetime import datetime
+from datetime import datetime                         
 import socket
 import time
 import os
@@ -198,7 +198,7 @@ class IPChecker:
                     sock.send(b"HEAD / HTTP/1.0\r\n\r\n")
                     banner = sock.recv(1024).decode('utf-8', errors='ignore')
                 except:
-                    pass
+                    pass                                     
                     
             return PortInfo(port, status, service, banner)
         except:
