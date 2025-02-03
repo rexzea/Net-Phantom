@@ -94,7 +94,7 @@ cr : Rexzea
 
 ```
 
-```python
+```bash
 # Check an IP address
 Enter IP address or hostname (example: 8.8.8.8 or google.com): 8.8.8.8
 
