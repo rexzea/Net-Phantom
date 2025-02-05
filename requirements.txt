@@ -1,1 +1,8 @@
-
+requests
+pandas
+plotly
+python-whois
+dnspython
+shodan
+pyOpenSSL
+python-dotenv
