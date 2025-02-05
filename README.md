@@ -57,7 +57,12 @@ A Python based IP address analysis tool that provides detailed information about
    cd ip-checker
    ```
 
-2. Install required packages:
+2. Navigate folder
+   ```bash
+   cd Net-Phantom
+   ```
+
+3. Install required packages:
    ```bash
    pip install -r requirements.txt
    ```
