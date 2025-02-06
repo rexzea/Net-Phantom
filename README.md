@@ -54,7 +54,6 @@ A Python based IP address analysis tool that provides detailed information about
 1. Clone the repository:
    ```bash
    git clone https://github.com/rexzea/Net-Phantom.git
-   cd ip-checker
    ```
 
 2. Navigate folder
